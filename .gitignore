@@ -1,7 +1,7 @@
+.vscode
+AutoHotKey/
 *.sublime-*
 *.ini
 *.zip
-.vscode
 *.bak
 _config.yaml
-测试
